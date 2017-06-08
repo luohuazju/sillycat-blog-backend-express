@@ -1,6 +1,6 @@
 {
   "name": "sillycat-blog-backend-express",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Blog API Express版",
   "main": "server/app.js",
   "scripts": {
@@ -13,7 +13,8 @@
     "url": "git+https://github.com/luohuazju/sillycat-blog-backend-express.git"
   },
   "keywords": [
-    "sillycat", "kiko"
+    "sillycat",
+    "kiko"
   ],
   "author": "sillycat&kiko",
   "license": "MIT",
@@ -60,4 +61,3 @@
     "supertest": "^2.0.0"
   }
 }
-
