@@ -1,7 +1,7 @@
 {
-  "name": "jackblog-api-express",
-  "version": "1.3.3",
-  "description": "Jackblog API Express版",
+  "name": "sillycat-blog-backend-express",
+  "version": "1.0",
+  "description": "Blog API Express版",
   "main": "server/app.js",
   "scripts": {
     "test": "gulp test",
@@ -10,17 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jackhutu/jackblog-api-express.git"
+    "url": "git+https://github.com/luohuazju/sillycat-blog-backend-express.git"
   },
   "keywords": [
-    "jackblog"
+    "sillycat", "kiko"
   ],
-  "author": "Jack Hu",
+  "author": "sillycat&kiko",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jackhutu/jackblog-api-express/issues"
-  },
-  "homepage": "https://github.com/jackhutu/jackblog-api-express#readme",
+  "homepage": "https://github.com/luohuazju/sillycat-blog-backend-express#readme",
   "dependencies": {
     "bluebird": "^3.4.6",
     "body-parser": "^1.15.2",
@@ -47,8 +44,7 @@
     "passport-github": "^1.1.0",
     "passport-local": "^1.0.0",
     "passport-qq": "0.0.3",
-    "passport-weibo": "^0.1.2",
-    "qiniu": "^6.1.11"
+    "passport-weibo": "^0.1.2"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
